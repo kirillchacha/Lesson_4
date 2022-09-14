@@ -1,0 +1,100 @@
+* {
+	color: black;
+}
+
+span {
+	color: rgb(133, 216, 9);
+	font-weight: 900;
+}
+
+.header {
+}
+.header-top {
+}
+.header-top-headline {
+	font-family: "Roboto";
+	font-weight: 700;
+}
+.header-top-paragraph {
+	font-family: "Larsseit";
+	font-weight: 400;
+}
+.header-menu {
+}
+.menu {
+}
+.menu-link-img {
+}
+.menu-headline {
+	font-family: "Lato-Cyrillic";
+	font-weight: 900;
+	color: blue;
+}
+.menu-body {
+}
+.menu-list {
+}
+.menu-item {
+	color: rgb(71, 197, 255);
+	font-family: "Lato-Cyrillic";
+	font-weight: 400;
+}
+.menu-link {
+}
+.main {
+}
+.main-top {
+}
+.main-top-headline {
+	font-family: "Roboto";
+	font-weight: 500;
+}
+.main-top-menu {
+}
+.menu-main-top {
+}
+.menu-main-top-body {
+}
+.menu-main-top-list {
+}
+.menu-main-top-item {
+	font-family: "Playfair Display";
+	font-weight: 700;
+}
+.menu-main-top-sublist {
+}
+.menu-main-top-subitem {
+	font-family: "Roboto";
+	font-weight: 400;
+}
+.main-center {
+}
+.main-center-headline-top {
+	font-family: "Roboto";
+	font-weight: 500;
+}
+.main-center-headline {
+	font-family: "Roboto";
+	font-weight: 300;
+}
+.main-center-paragraph {
+	font-family: "Lato-Cyrillic";
+	font-weight: 400;
+}
+.main-center-body {
+}
+.main-center--paragraph {
+}
+.footer {
+}
+.footer-top {
+}
+.footer-link {
+	color: red;
+}
+.footer-bottom {
+}
+.footer-bottom-paragraph {
+}
+
+
